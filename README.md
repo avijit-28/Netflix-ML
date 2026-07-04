@@ -9,7 +9,7 @@ A 4-week practical ML internship focused on predictive modeling, data analysis, 
 ## Dataset
 `data/Dataset.csv` — Netflix titles dataset (8,790 rows) with columns: `show_id, type, title, director, country, date_added, release_year, rating, duration, listed_in`.
 
-## Tasks Completed
+## Tasks
 
 | # | Task | Difficulty | Type | Key Techniques |
 |---|------|-----------|------|-----------------|
@@ -25,26 +25,30 @@ A 4-week practical ML internship focused on predictive modeling, data analysis, 
 netflix-ml-internship/
 ├── data/
 │   └── Dataset.csv
-├── Task1_Recommendation_System/
-│   ├── Task1_Netflix_Recommender.ipynb
+├── Task1/
+│   ├── screenshots/
+│   ├── netflix_content_recomded_system.ipynb
 │   └── README.md
-├── Task2_Content_Type_Prediction/
-│   ├── Task2_Content_Type_Prediction.ipynb
+├── Task2/
+│   ├── screenshots/
+│   ├── Content_Type_Prediction_Model.ipynb
 │   └── README.md
-├── Task3_Rating_Classification/
-│   ├── Task3_Rating_Classification.ipynb
+├── Task3/
+│   ├── screenshots/
+│   ├── Netflix_Audience_Rating_Classification.ipynb
 │   └── README.md
-├── Task4_Content_Segmentation/
-│   ├── Task4_Content_Segmentation.ipynb
+├── Task4/
+│   ├── screenshots/
+│   ├── Netflix_Content_Segmentation.ipynb
 │   └── README.md
-├── Task5_Trend_Forecasting/
-│   ├── Task5_Trend_Forecasting.ipynb
+├── Task5/
+│   ├── screenshots/
+│   ├── Netflix_Trend_Forecasting_Model.ipynb
 │   └── README.md
-├── Task6_Success_Analytics_Engine/
-│   ├── Task6_Success_Analytics_Engine.ipynb
-│   ├── netflix_analytics_report.png
+├── Task6/
+│   ├── screenshots/
+│   ├── Netflix_Content_Success_Analytics_Engine.ipynb
 │   └── README.md
-├── screenshots/
 └── README.md
 ```
 
